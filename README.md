@@ -70,12 +70,12 @@ The distribution of car prices is right-skewed, indicating that most vehicles fa
 There is a strong positive relationship between the car's manufacturing year and its price. Newer vehicles tend to have significantly higher prices, making "year" one of the most influential features in predicting car value.
 
 ### 🚗 Mileage vs Price
-![Mileage vs Price](images/mileage_vs_price.png)
+![Mileage vs Price](images/price_vs_mileage.png)
 
 Mileage shows a clear negative correlation with price, where higher mileage leads to lower car value. This reflects real-world depreciation and confirms mileage as a critical predictor in the model.
 
 ### 🔥 Correlation Heatmap
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](images/correaltion_heatmap.png)
 
 The heatmap highlights relationships between numerical features. Strong correlations are observed between price and variables like year and mileage, helping in feature selection and reducing redundant variables for better model performance.
 
